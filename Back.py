@@ -6,7 +6,7 @@ import os
 IST = pytz.timezone('Asia/Kolkata')
 nowdatetime = datetime.now(IST)
 
-cluster=MongoClient(os.environ.get('GithubCounter_URL'))
+cluster=pymongo.MongoClient(os.environ.get('GithubCounter_URL'))
 db=cluster['GithubHitsCounter']['Data']
 
 def IncrementAndgetCount(request):
