@@ -1,7 +1,7 @@
 # <p align="center">GithubCounter</p>
 
 
-![Visitors Count](https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&RepoName=GithubCounter&Counter=True)
+[Visitors Count](https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&RepoName=GithubCounter&Counter=True)
 
 
 ```md
